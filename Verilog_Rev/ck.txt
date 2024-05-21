@@ -1,0 +1,7 @@
+VCD info: dumpfile tst_wave.vcd opened for output.
+J=x K=x Q=0
+J=0 K=0 Q=0
+J=1 K=0 Q=0
+J=1 K=0 Q=1
+J=0 K=0 Q=1
+J=1 K=0 Q=1
