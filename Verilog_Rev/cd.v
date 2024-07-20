@@ -1,3 +1,4 @@
+//Revision notes
 //Instead of compiling it creates a database storing the values
 //Keywords : module , endmodule , input ,output
 module e1(A,B,C,D);
